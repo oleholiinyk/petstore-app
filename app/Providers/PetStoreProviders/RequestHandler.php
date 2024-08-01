@@ -4,7 +4,6 @@ namespace App\Providers\PetStoreProviders;
 
 use App\Exceptions\PetStoreException;
 use Illuminate\Support\Facades\Http;
-use Symfony\Component\HttpFoundation\Response;
 
 class RequestHandler
 {
